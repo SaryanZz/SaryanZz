@@ -19,11 +19,6 @@ Currently exploring modern web technologies, backend development, and databases,
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaryanZz&theme=dark&bg_color=0A0A0A" alt="SaryanZz" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaryanZz&layout=compact&theme=dark&bg_color=0A0A0A"/>
-</div>
-
-
 ## Tech stack
 
 <p align="left">
