@@ -2,7 +2,7 @@
 
 <p align="left">
 Hi, I'm Bryan 👨‍💻  
-I'm 16 years old and currently studying at ITESA.  
+I'm 17 years old and currently studying at ITESA.  
 I'm passionate about software development and constantly learning new technologies to improve my skills 🚀
 </p>
 
